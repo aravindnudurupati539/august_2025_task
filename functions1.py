@@ -129,17 +129,25 @@
 #     return n1+n2
 # obj = add(25,25)
 
-def add(a,b):
-    print(a+b)
-def sub(a,b):
-    print(a-b)
-def mul(a,b):
-    print(a*b)
-def expo(a,b):
-    print(a**b)
+# def add(a,b):
+#     print(a+b)
+# def sub(a,b):
+#     print(a-b)
+# def mul(a,b):
+#     print(a*b)
+# def expo(a,b):
+#     print(a**b)
 # sub(10,5)
 # sub(20,50)
 # add(5,25)
 
 
 # area = 40
+
+
+
+# new changes done
+age = 35
+def voter():
+    return age
+voter()
